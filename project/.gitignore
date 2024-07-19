@@ -1,0 +1,20 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore database files
+*.db
+
+# Ignore data files
+data/Домашние_животные.txt
+data/Вьючные_животные.txt
+data/Друзья_человека.txt
+
+# Ignore diagrams
+diagrams/diagram.png
+
+# Ignore environment variables
+.env
