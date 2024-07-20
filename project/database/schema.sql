@@ -1,7 +1,0 @@
-CREATE TABLE IF NOT EXISTS animals (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(255) NOT NULL,
-    type VARCHAR(255) NOT NULL,
-    command VARCHAR(255) NOT NULL,
-    birth_date DATE NOT NULL
-);
